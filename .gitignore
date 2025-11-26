@@ -1,0 +1,7 @@
+\.godzilla_war
+__pycache__/
+*.pyc
+
+# Ignorar builds do Pybag
+build/
+web/
