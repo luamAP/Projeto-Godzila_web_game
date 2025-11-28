@@ -1,3 +1,14 @@
 # Godot 4+ specific ignores
 .godot/
 /android/
+
+# Godot 4+ specific ignores
+.godot/
+*.translation
+export_presets.cfg
+
+# Mono/C# (caso a gente use no futuro, bom prevenir)
+.mono/
+*.a
+*.lib
+*.dll
