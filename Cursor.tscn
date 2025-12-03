@@ -21,7 +21,6 @@ script = ExtResource("2_e3af5")
 [node name="Sprite" type="Sprite2D" parent="Cursor"]
 modulate = Color(1, 0.2, 0.2, 1)
 z_index = 10
-position = Vector2(49, 67)
 texture = ExtResource("1_ux3mw")
 
 [node name="TileMapLayer" type="TileMapLayer" parent="."]
